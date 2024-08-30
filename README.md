@@ -1,4 +1,5 @@
 # 2nd Year Computer Scientist
+[LinkedIn](https://www.linkedin.com/in/ray-rider/)
 
 #### Technical Skills: Python, SQL, Computer-Aided Design (CAD), Python, Java, HTML, AutoCAD, Revit, GitHub, GitLab, Microsoft Office
 
