@@ -23,11 +23,11 @@ Enhance existing models and implement new features, contributing to energy-savin
 **3D Component Modeler and Architecture Designer Intern @ Thanium Nine and Simmtronic Lighting Controls (07/2024 - 08/2024)**
 Daily use of Autodesk AutoCAD to create accurate floor and ceiling plans of the client's office and warehouse
 Daily use of Autodesk Revit to build 3D building models and creating specific component families for clients
-![Upstairs Render](/.github/assets&imgs/Level 1 dark.jpg)
+![Upstairs Render](/.github/assets&imgs/Level1dark.jpg)
 Direct interaction with clients to understand their individual needs: gathered continual feedback and accurately incorporated suggestions into the model
 Built a digital twin of the client's building, complete with lighting and mechanical fixtures and detailed interior and exterior spaces
 This model enabled the client to remotely monitor and control lighting and mechanical devices, optimizing energy efficiency and supported material cost reduction
-![Interior Render](/.github/assets&imgs/Ground Copy 1.jpg)
+![Interior Render](/.github/assets&imgs/GroundCopy1.jpg)
 Conducted surveys of the office space to ensure floorplans and models accurately reflected the building
 Incorporated client's model into Unreal Engine 5 using Twinmotion to enhance the visualization of the model
 ## Projects
