@@ -20,14 +20,14 @@ refining and expanding 3D models and digital twin functionalities
 Maintain ongoing client communication to ensure the models meet their evolving needs
 Enhance existing models and implement new features, contributing to energy-saving initiatives and system optimizations
 
-**3D Component Modeler and Architecture Designer Intern @Thanium Nine and Simmtronic Lighting Controls (07/2024 - 08/2024)**
+**3D Component Modeler and Architecture Designer Intern @ Thanium Nine and Simmtronic Lighting Controls (07/2024 - 08/2024)**
 Daily use of Autodesk AutoCAD to create accurate floor and ceiling plans of the client's office and warehouse
 Daily use of Autodesk Revit to build 3D building models and creating specific component families for clients
-Direct interaction with clients to understand their individual needs: gathered continual feedback and accurately incorporated suggestions into the
-model
+![Upstairs Render](/.github/assets&imgs/Level 1 dark.jpg)
+Direct interaction with clients to understand their individual needs: gathered continual feedback and accurately incorporated suggestions into the model
 Built a digital twin of the client's building, complete with lighting and mechanical fixtures and detailed interior and exterior spaces
-This model enabled the client to remotely monitor and control lighting and mechanical devices, optimizing energy efficiency and supported material
-cost reduction
+This model enabled the client to remotely monitor and control lighting and mechanical devices, optimizing energy efficiency and supported material cost reduction
+![Interior Render](/.github/assets&imgs/Ground Copy 1.jpg)
 Conducted surveys of the office space to ensure floorplans and models accurately reflected the building
 Incorporated client's model into Unreal Engine 5 using Twinmotion to enhance the visualization of the model
 ## Projects
@@ -36,10 +36,13 @@ I learnt about 3D component design and architecture modeling using industry-stan
 
 A significant aspect of my work experience involved direct interaction with clients to understand their needs and desired improvements. I communicated with clients to gather their feedback and suggestions, ensuring their visions and requirements were accurately reflected in the updated models. My ability to listen attentively and implement client feedback effectively has been well-received, highlighting my competency in managing client relations and delivering tailored solutions.
 
+
 To ensure the accuracy of the floorplans and models, I conducted in-person surveys of the office space. This hands-on approach allowed me to verify that all dimensions and details were precise, contributing to the overall quality and reliability of the 3D models. This attention to detail ensures that the final product met the highest standards of accuracy and functionality.
 
 Additionally, my 3D model has been implemented as a real-time digital twin of the actual office space. This allows users to remotely monitor and control the lighting and mechanical devices within the office. By adjusting these systems in real-time, users can optimize energy efficiency and reduce costs. The model not only provides a dynamic view of the office environment but serves as a valuable tool for enhancing operational efficiency and sustainability.
 
 Overall, my work experience at Thanium Nine has provided me with a solid foundation in 3D component design, automated systems, and advanced visualization techniques, and has prepared me for future challenges and opportunities in the engineering and technology sectors.
+
+![External Render](/.github/assets&imgs/EXTERNALnew.jpg)
 
 
