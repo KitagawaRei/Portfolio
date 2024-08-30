@@ -1,55 +1,45 @@
-# Data Scientist
+# 2nd Year Computer Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Computer-Aided Design (CAD), Python, Java, HTML, AutoCAD, Revit, GitHub, GitLab, Microsoft Office
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+BSc Computer Science 09/2023 - Present
+Activities and societies: Volleyball Team-Member and Activator (coaching), Japanese, Badminton#
+
+The John Warner School
+A Levels (Chemistry, Physics, Mathematics, EPQ) and 11 GCSEs (Grades 6-8) 09/2016 - 06/2023
+VEX Robotics National UK Champion (03/2019), World Tournament 41st place (04/2019), National Runners-Up (03/2020)
+Awarded Worshipful Company of Founder's Scholarship Bursary
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Remote Architecture Designer @ Thanium Nine (08/2024 - Present)**
+Offered a part-time remote position following the successful completion of my internship and continuing to work on client projects, focusing on
+refining and expanding 3D models and digital twin functionalities
+Maintain ongoing client communication to ensure the models meet their evolving needs
+Enhance existing models and implement new features, contributing to energy-saving initiatives and system optimizations
 
+**3D Component Modeler and Architecture Designer Intern @Thanium Nine and Simmtronic Lighting Controls (07/2024 - 08/2024)**
+Daily use of Autodesk AutoCAD to create accurate floor and ceiling plans of the client's office and warehouse
+Daily use of Autodesk Revit to build 3D building models and creating specific component families for clients
+Direct interaction with clients to understand their individual needs: gathered continual feedback and accurately incorporated suggestions into the
+model
+Built a digital twin of the client's building, complete with lighting and mechanical fixtures and detailed interior and exterior spaces
+This model enabled the client to remotely monitor and control lighting and mechanical devices, optimizing energy efficiency and supported material
+cost reduction
+Conducted surveys of the office space to ensure floorplans and models accurately reflected the building
+Incorporated client's model into Unreal Engine 5 using Twinmotion to enhance the visualization of the model
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Simmtronic Office Building Design and Update
+I learnt about 3D component design and architecture modeling using industry-standard tools such as Autodesk AutoCAD and Revit. The training enabled me to update and create specific components for a client's 3D office model, providing practical, hands-on experience in the application of these technologies. These projects have honed my abilities to visualize and implement complex designs effectively.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+A significant aspect of my work experience involved direct interaction with clients to understand their needs and desired improvements. I communicated with clients to gather their feedback and suggestions, ensuring their visions and requirements were accurately reflected in the updated models. My ability to listen attentively and implement client feedback effectively has been well-received, highlighting my competency in managing client relations and delivering tailored solutions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+To ensure the accuracy of the floorplans and models, I conducted in-person surveys of the office space. This hands-on approach allowed me to verify that all dimensions and details were precise, contributing to the overall quality and reliability of the 3D models. This attention to detail ensures that the final product met the highest standards of accuracy and functionality.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Additionally, my 3D model has been implemented as a real-time digital twin of the actual office space. This allows users to remotely monitor and control the lighting and mechanical devices within the office. By adjusting these systems in real-time, users can optimize energy efficiency and reduce costs. The model not only provides a dynamic view of the office environment but serves as a valuable tool for enhancing operational efficiency and sustainability.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Overall, my work experience at Thanium Nine has provided me with a solid foundation in 3D component design, automated systems, and advanced visualization techniques, and has prepared me for future challenges and opportunities in the engineering and technology sectors.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
