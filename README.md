@@ -57,7 +57,7 @@ UI Layout:
 The layout consists of RelativeLayouts for organizing score-related elements, such as buttons for incrementing and decrementing scores, and a central section for displaying and editing scores.
 The court positions (P1-P6) are displayed in two separate GridLayouts, visually representing the positions of players on the court for both sets.
 
-![External Render](/.github/assets&imgs/image.jpg)
+![Volleyball Android App](/.github/assets&imgs/image.png)
 
 
 
