@@ -38,6 +38,8 @@ Additionally, my 3D model has been implemented as a real-time digital twin of th
 ### Volleyball Scoreboard Android App
 **(2024)**
 
+https://github.com/KitagawaRei/VolleyballScorer
+
 **Key Features:**
 
 Score Management:
